@@ -1,0 +1,45 @@
+20 ?- consult(['c:/Users/alhar/Downloads/AI_Lab3.pl']).
+true.
+
+20 ?- father(hulayel, khaled).
+true.
+
+21 ?- father(ghalyah, fahdah).
+false.
+
+22 ?- mother(hussain, mohmmed).
+false.
+
+23 ?- brother(khaled, sarah).
+true .
+
+24 ?- brother(lina, haya).
+false.
+
+25 ?- sister(haya, khaled).
+true .
+
+26 ?- Sister(muteb, mohmmed).
+ERROR: Syntax error: Operator expected
+ERROR: Siste
+ERROR: ** here **
+ERROR: r(muteb, mohmmed) . 
+27 ?- sister(muteb, mohammed).
+false.
+
+28 ?- parent(hulayel, haya).
+true.
+
+29 ?- parent(hussain, ghalyah).
+false.
+
+30 ?- sister(haya, sarah).
+true .
+
+31 ?- sister(sarah, muteb).
+false.
+
+32 ?- 
+
+
+ 
