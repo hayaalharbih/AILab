@@ -1,0 +1,14 @@
+Queries
+
+father(hulayel, khaled).
+father(ghalyah, fahdah).
+mother(hussain, mohmmed).
+brother(khaled, sarah).
+brother(lina, haya).
+sister(haya, khaled).
+sister(muteb, mohammed).
+parent(hulayel, haya).
+parent(hussain, ghalyah).
+
+
+ 
